@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dutchman/dutchman.iml" filepath="$PROJECT_DIR$/dutchman/dutchman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jack-sparrow/jack-sparrow.iml" filepath="$PROJECT_DIR$/jack-sparrow/jack-sparrow.iml" />
       <module fileurl="file://$PROJECT_DIR$/mp7-pirates-of-the-code-bean.iml" filepath="$PROJECT_DIR$/mp7-pirates-of-the-code-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tia-dalma/tia-dalma.iml" filepath="$PROJECT_DIR$/tia-dalma/tia-dalma.iml" />
     </modules>
   </component>
 </project>
